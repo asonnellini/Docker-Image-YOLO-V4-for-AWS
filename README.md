@@ -2,7 +2,7 @@
 
 Have you tried to install YOLO V4 on your laptop enabling GPU computation? 
 
-If yes, I think you may have faced some challenge in terms of dependencies and amount of Disk space.
+If yes, I think you may have faced some challenges in terms of dependencies and amount of Disk space.
 
 In this repository I briefly show how to create a docker image having YOLO V4 that can run on an AWS Px EC2. 
 From now on, having access to YOLO V4 will be as easy as running a Docker image.
