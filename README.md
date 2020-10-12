@@ -7,7 +7,7 @@ If yes, I think you may have faced some challenges in terms of dependencies and 
 In this repository I briefly show how to create a docker image having YOLO V4 that can run on an AWS Px EC2. 
 From now on, having access to YOLO V4 will be as easy as running a Docker image.
 
-I plan in the coming weeks to further improve this Docker image to have a ready-to-go YOLO V4 docker container.
+I plan in the coming weeks to further improve this Docker image to further automate some steps that are now manual.
 
 I will make use of the [YOLO V4 darknet implementation](https://github.com/AlexeyAB/darknet). 
 
