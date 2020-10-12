@@ -11,4 +11,6 @@ I plan in the coming weeks to further improve this Docker image to further autom
 
 I will make use of the [YOLO V4 darknet implementation](https://github.com/AlexeyAB/darknet). 
 
-Special thanks to the [author of this youtube video](https://www.youtube.com/watch?v=B8ZJXKG8AOw&t=491s) who pointed me to the NVIDIA docker repository where I could find an Ubuntu docker image with all NVIDIA libraries needed for YOLO V4 installed.
+Special thanks to: 
+  - [DSTI](https://www.datasciencetech.institute/applied-msc-data-science-and-artificial-intelligence/) Teachers for some headsup 
+  - the [author of this youtube video](https://www.youtube.com/watch?v=B8ZJXKG8AOw&t=491s) who pointed me to the NVIDIA docker repository where I could find an Ubuntu docker image with all NVIDIA libraries needed for YOLO V4 installed.
